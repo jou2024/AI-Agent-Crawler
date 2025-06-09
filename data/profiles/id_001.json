@@ -1,0 +1,11 @@
+{
+  "id": "001",
+  "full_name": "Soren Iverson",
+  "headline": "Founder of a full-service design consultancy",
+  "location": "Los Angeles, California, United States",
+  "public_contact_info_available": true,
+  "current_position": {
+    "title": "Founder",
+    "organization": "Iverson (design consultancy)"
+  }
+}

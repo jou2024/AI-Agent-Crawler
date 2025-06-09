@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "body": {
+    "content": "",
+    "error": "Error fetching podcast content: ScribeSocial API request failed: 400 Client Error: Bad Request for url: https://api.scribesocial.ai/v1/transcribe\nResponse content: {'status': 400, 'error_code': 'UnsupportedUrl', 'error_message': 'URL is invalid or currently unsupported.'}",
+    "favicon": "",
+    "title": "",
+    "url": "https://www.youtube.com/@soren_iverson/videos"
+  }
+}

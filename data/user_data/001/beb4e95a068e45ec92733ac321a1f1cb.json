@@ -1,0 +1,12 @@
+{
+  "status_code": 200,
+  "body": {
+    "content": "let's look at how to check color contrast in figma first I'll right click and open the start plugin I'll click on contrast first I'll select a layer to check against and as you can see here it fails most contrast ratios if I select the layer on the bottom you'll see that it passes if you're not passing contrast ratios Stark will suggest Alternatives that will pass and you can apply those with the premium version",
+    "description": "",
+    "favicon": "",
+    "metadata": null,
+    "published_at": "Sun, 16 Oct 2022 17:38:19 GMT",
+    "title": "How to check color contrast with this #figmatutorial",
+    "url": "https://www.youtube.com/watch?v=EjEpL6CTwLA"
+  }
+}

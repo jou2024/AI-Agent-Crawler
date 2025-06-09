@@ -1,0 +1,12 @@
+{
+  "status_code": 200,
+  "body": {
+    "content": "let's look at how you can create a type system with material design if we go to material.io you can see all the latest updates that they're making to the material design system we'll go to the design Tab and then we'll go to typography and then we'll end on the pitch called the type system there's this thing called the type scale generator which is powered by Google fonts so if you see here let's say I want to look at something like Monster Rat for the headlines and subtitles I like that so I want to actually do that for my body and captions too and you can see if I scroll down it's been changed for both button caption over line everything if I click into that I can see the default font wait letters basic and size associated with that and if I want to pull the code I can actually pull all of the CSS that you would use to do this they also show you things like example type scales font size units example conversions letter spacing and more about how to apply it in a wide variety of use cases",
+    "description": "",
+    "favicon": "",
+    "metadata": null,
+    "published_at": "Tue, 27 Sep 2022 16:18:03 GMT",
+    "title": "How to create a type system using #materialdesign #shortvideo",
+    "url": "https://www.youtube.com/watch?v=NBojibnQbPo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "status_code": 200,
+  "body": {
+    "content": "",
+    "error": "Error fetching podcast content: ScribeSocial API request failed: 400 Client Error: Bad Request for url: https://api.scribesocial.ai/v1/transcribe\nResponse content: {'status': 400, 'error_code': 'UnsupportedUrl', 'error_message': 'URL is invalid or currently unsupported.'}",
+    "favicon": "",
+    "published_at": "Sun, 16 Oct 2022 17:38:19 GMT",
+    "title": "",
+    "url": "https://www.youtube.com/https://www.youtube.com/watch?v=EjEpL6CTwLA"
+  }
+}

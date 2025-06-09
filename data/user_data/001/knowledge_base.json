@@ -1,0 +1,653 @@
+[
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Personal website of Soren Iverson, founder of Iverson, a full-service creative consultancy. Showcases his projects, career history, and writing.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is their official personal website. Content matches user’s name, role, and consultancy."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and creative work.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is their YouTube channel. The handle matches the user's name and identity."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Personal website of Soren Iverson, founder of Iverson, a full-service creative consultancy. Showcases his projects, career history, and writing.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is their official personal website. Content matches user’s name, role, and consultancy."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and creative work.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is their YouTube channel. The handle matches the user's name and identity."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=EjEpL6CTwLA",
+      "link_summary": "YouTube video tutorial on checking color contrast in Figma, likely created by Soren Iverson as part of his design consultancy content.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video is from their channel. Content matches user’s design expertise."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=NBojibnQbPo",
+      "link_summary": "YouTube short video tutorial on creating a type system using Material Design, likely produced by Soren Iverson as part of his design consultancy content.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video is from their channel. Content matches user’s design expertise and channel focus."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=WSHGY-TMpW0",
+      "link_summary": "YouTube short video tutorial by Soren Iverson on using layered shadows to improve Dribbble design shots, demonstrating practical design techniques.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video is from their channel. Content matches user’s design expertise and channel focus."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "YouTube video by Soren Iverson explaining how much product designers get paid, including salary, stock options, RSUs, and bonuses, with practical advice for designers in tech.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is their video. Soren Iverson introduces himself and discusses product design compensation, matching user’s expertise and identity."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Official personal website of Soren Iverson, founder of Iverson design consultancy. Includes professional history, projects, contact info, and personal background.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is Soren Iverson’s official site; content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy work and professional activities.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is Soren Iverson’s YouTube channel; handle matches user’s name exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "Podcast interview featuring Soren Iverson discussing his approach to design, building viral products, business ideas, and his professional journey as a founder and designer.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is explicitly named and interviewed; content matches user’s identity and expertise exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "Podcast interview with Soren Iverson on Dive Club, covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and professional growth as a designer and founder.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is explicitly named as the guest; the entire episode is about his work, process, and career, matching the user’s identity exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "YouTube video by Soren Iverson explaining how much product designers get paid, including salary, stock options, RSUs, and bonuses, with insights from his own experience as a product designer.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson introduces himself by name and profession; content is first-person and matches user’s expertise and background exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Official personal website of Soren Iverson, founder of Iverson design consultancy. Includes professional history, projects, contact info, and personal background.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is Soren Iverson’s official site; content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy work and professional activities.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is Soren Iverson’s YouTube channel; handle matches user’s name exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "Podcast interview featuring Soren Iverson discussing his approach to design, building viral products, business ideas, and his professional journey as a founder and designer.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is explicitly named and interviewed; content matches user’s identity and expertise exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=WSHGY-TMpW0",
+      "link_summary": "YouTube short video demonstrating how to use layered shadows to improve the visual quality of Dribbble design shots, likely created by Soren Iverson as part of his design consultancy content.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video is related to Soren Iverson; content matches his design expertise and YouTube activity."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "Podcast interview with Soren Iverson on Dive Club, covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and professional growth as a designer and founder.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is explicitly named as the guest; the entire episode is about his work, process, and career, matching the user’s identity exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "link_summary": "Podcast episode featuring Soren Iverson as a special guest, discussing his career in design, satirical app concepts, creative process, and professional journey as a founder and designer.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is Soren Iverson; he is explicitly named and interviewed throughout the episode, matching the user's profile and expertise."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "YouTube video by Soren Iverson explaining how much product designers get paid, including salary, stock options, RSUs, and bonuses, with insights from his own experience as a product designer.",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson introduces himself by name and profession; content is first-person and matches user’s expertise and background exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Official personal website of Soren Iverson, founder of Iverson consultancy. Includes professional history, projects, and contact info.",
+      "platform": "PersonalSite",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is Soren Iverson’s official personal website. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and professional work.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is Soren Iverson’s YouTube channel. URL matches user’s name and prior confirmation."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "A podcast interview with Soren Iverson, founder of a design consultancy, discussing his approach to product design, building viral products, business ideas in hardware, real estate, and design, and his personal journey as a creator.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is directly named as the guest; content matches his expertise and public persona. This is a primary source about the user."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "A podcast interview with Soren Iverson on Dive Club, covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and his journey as a designer and founder.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest; the episode is about his design career, creative process, and public persona. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "link_summary": "A podcast interview with Soren Iverson on Not Investment Advice, where he discusses his design career, satirical app concepts, creative process, fine art background, going viral, and building a daily creative habit.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the named guest; the episode is about his design work, creative process, and public persona. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "A YouTube video by Soren Iverson explaining product designer compensation, including salary, stock options, RSUs, and bonuses, with practical advice for designers in tech.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson introduces himself by name and profession; content and channel match user’s identity and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Official personal website of Soren Iverson, founder of Iverson consultancy. Includes professional history, projects, and contact info.",
+      "platform": "PersonalSite",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is Soren Iverson’s official personal website. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and professional work.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is Soren Iverson’s YouTube channel. URL matches user’s name and prior confirmation."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "A podcast interview with Soren Iverson, founder of a design consultancy, discussing his approach to product design, building viral products, business ideas in hardware, real estate, and design, and his personal journey as a creator.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is directly named as the guest; content matches his expertise and public persona. This is a primary source about the user."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=WSHGY-TMpW0",
+      "link_summary": "A YouTube short explaining how to use layered shadows to improve Dribbble design shots, likely by Soren Iverson given prior confirmation and content relevance.",
+      "platform": "YouTube",
+      "confidence": 4,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this video; content matches Soren Iverson’s design expertise and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "A podcast interview with Soren Iverson on Dive Club, covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and his journey as a designer and founder.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest; the episode is about his design career, creative process, and public persona. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "link_summary": "A podcast interview with Soren Iverson on Not Investment Advice, where he discusses his design career, satirical app concepts, creative process, fine art background, going viral, and building a daily creative habit.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the named guest; the episode is about his design work, creative process, and public persona. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "A YouTube video by Soren Iverson explaining product designer compensation, including salary, stock options, RSUs, and bonuses, with practical advice for designers in tech.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson introduces himself by name and profession; content and channel match user’s identity and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Official personal website of Soren Iverson, founder of Iverson consultancy. Includes professional history, projects, and contact info.",
+      "platform": "PersonalSite",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is Soren Iverson’s official personal website. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and professional work.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is Soren Iverson’s YouTube channel. URL matches user’s name and prior confirmation."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=NBojibnQbPo",
+      "link_summary": "A YouTube short explaining how to create a type system using Material Design and Google Fonts, likely by Soren Iverson given user confirmation and content relevance.",
+      "platform": "YouTube",
+      "confidence": 4,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video; content matches Soren Iverson’s design expertise and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "A podcast interview with Soren Iverson, founder of a design consultancy, discussing his approach to product design, building viral products, business ideas in hardware, real estate, and design, and his personal journey as a creator.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is directly named as the guest; content matches his expertise and public persona. This is a primary source about the user."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=WSHGY-TMpW0",
+      "link_summary": "A YouTube short explaining how to use layered shadows to improve Dribbble design shots, likely by Soren Iverson given prior confirmation and content relevance.",
+      "platform": "YouTube",
+      "confidence": 4,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this video; content matches Soren Iverson’s design expertise and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "A podcast interview with Soren Iverson on Dive Club, covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and his journey as a designer and founder.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest; the episode is about his design career, creative process, and public persona. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=kUxB19g9Pxw",
+      "link_summary": "A YouTube short demonstrating how to zoom to a specific area in Figma, likely created by Soren Iverson given prior user confirmation and content relevance to design.",
+      "platform": "YouTube",
+      "confidence": 4,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video; content matches Soren Iverson’s design expertise and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "link_summary": "A podcast interview with Soren Iverson on Not Investment Advice, where he discusses his design career, satirical app concepts, creative process, fine art background, going viral, and building a daily creative habit.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the named guest; the episode is about his design work, creative process, and public persona. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "A YouTube video by Soren Iverson explaining product designer compensation, including salary, stock options, RSUs, and bonuses, with practical advice for designers in tech.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson introduces himself by name and profession; content and channel match user’s identity and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Official personal website of Soren Iverson, founder of Iverson consultancy. Includes professional history, projects, and contact info.",
+      "platform": "PersonalSite",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is Soren Iverson’s official personal website. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and professional work.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is Soren Iverson’s YouTube channel. URL matches user’s name and prior confirmation."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=NBojibnQbPo",
+      "link_summary": "A YouTube short explaining how to create a type system using Material Design and Google Fonts, likely by Soren Iverson given user confirmation and content relevance.",
+      "platform": "YouTube",
+      "confidence": 4,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video; content matches Soren Iverson’s design expertise and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "A podcast interview with Soren Iverson, founder of a design consultancy, discussing his approach to product design, building viral products, business ideas in hardware, real estate, and design, and his personal journey as a creator.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is directly named as the guest; content matches his expertise and public persona. This is a primary source about the user."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=WSHGY-TMpW0",
+      "link_summary": "A YouTube short explaining how to use layered shadows to improve Dribbble design shots, likely by Soren Iverson given prior confirmation and content relevance.",
+      "platform": "YouTube",
+      "confidence": 4,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this video; content matches Soren Iverson’s design expertise and confirmed YouTube presence."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "A podcast interview with Soren Iverson on Dive Club, covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and his journey as a designer and founder.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest; the episode is about his design career, creative process, and public persona. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Personal website of Soren Iverson, founder of Iverson, a full-service creative consultancy. Includes professional history, projects, and contact info.",
+      "platform": "PersonalSite",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is their official personal website. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and professional work.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is their YouTube channel. Channel handle matches user's name and profile."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "YouTube podcast episode featuring Soren Iverson discussing his approach to design, building viral products, business ideas, and his experience as a founder and designer. The conversation covers hardware, real estate, and design startup opportunities, with Soren sharing personal insights and professional advice.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, directly matching the user's name, profession, and public persona. The episode centers on his work and ideas."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "YouTube interview with Soren Iverson (Dive Club Ep. 29) covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and product sense. Offers deep insights into his professional journey and design philosophy.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, and the content is entirely about his work and career. Title, transcript, and description all match the user's identity and expertise."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "link_summary": "Podcast episode featuring Soren Iverson discussing his design career, satirical app concepts, creative process, fine art background, and strategies for building an audience. Includes insights on UX, virality, and the intersection of comedy and design.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, and the entire episode centers on his work, career, and design philosophy. Title, transcript, and description all match the user's identity and expertise."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "YouTube video by Soren Iverson explaining how much product designers get paid, including salary, stock options, RSUs, and bonuses. The video covers compensation factors, negotiation, and resources for designers in tech.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Video is authored and presented by Soren Iverson, directly matching the user's name, voice, and professional expertise. Content aligns with user's background as a design consultant."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "link_summary": "Personal website of Soren Iverson, founder of Iverson, a full-service creative consultancy. Includes professional history, projects, and contact info.",
+      "platform": "PersonalSite",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User confirmed this is their official personal website. Content matches user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and professional work.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this is their YouTube channel. Channel handle matches user's name and profile."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "YouTube podcast episode featuring Soren Iverson discussing his approach to design, building viral products, business ideas, and his experience as a founder and designer. The conversation covers hardware, real estate, and design startup opportunities, with Soren sharing personal insights and professional advice.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, directly matching the user's name, profession, and public persona. The episode centers on his work and ideas."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=WSHGY-TMpW0",
+      "link_summary": "YouTube short video demonstrating how to use layered shadows to improve Dribbble design shots, including practical tips and plugin recommendations. Content aligns with design consultancy expertise.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video is theirs. Content is about design techniques, directly matching user's professional background."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "YouTube interview with Soren Iverson (Dive Club Ep. 29) covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and product sense. Offers deep insights into his professional journey and design philosophy.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, and the content is entirely about his work and career. Title, transcript, and description all match the user's identity and expertise."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "link_summary": "Podcast episode featuring Soren Iverson discussing his design career, satirical app concepts, creative process, fine art background, and strategies for building an audience. Includes insights on UX, virality, and the intersection of comedy and design.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, and the entire episode centers on his work, career, and design philosophy. Title, transcript, and description all match the user's identity and expertise."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "YouTube video by Soren Iverson explaining how much product designers get paid, including salary, stock options, RSUs, and bonuses. The video covers compensation factors, negotiation, and resources for designers in tech.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Video is authored and presented by Soren Iverson, directly matching the user's name, voice, and professional expertise. Content aligns with user's background as a design consultant."
+    }
+  ]
+]

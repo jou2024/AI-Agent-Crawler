@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "platform": "web",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Site is titled 'Soren Iverson' and describes the user as founder of Iverson, matching user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "platform": "youtube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "YouTube handle '@soren_iverson' matches user's name exactly; high certainty this is the user."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "platform": "website",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Site is titled 'Soren Iverson' and describes the user as founder of Iverson, matching user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "platform": "website",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Site is titled 'Soren Iverson' and describes the user as founder of Iverson consultancy, matching user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.soreniverson.com/",
+      "platform": "web",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Site is titled 'Soren Iverson' and describes the user as founder of Iverson, matching user profile exactly."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, discussing his work and ideas. Direct, high-confidence match to user."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "This is a podcast episode directly featuring Soren Iverson, matching the user's identity and professional background."
+    }
+  ],
+  [
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "platform": "youtube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest; episode is about his design work and career. Direct, certain match."
+    }
+  ]
+]

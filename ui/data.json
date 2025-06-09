@@ -1,0 +1,119 @@
+{
+  "links": [
+    {
+      "link": "https://www.soreniverson.com/",
+      "platform": "PersonalSite",
+      "is_confirmed": true,
+      "add_to_db": true,
+      "search_info": "soren iverson",
+      "agent_notes": "User confirmed this is their official personal website. Content matches user profile exactly.",
+      "link_summary": "Personal website of Soren Iverson, founder of Iverson, a full-service creative consultancy. Includes professional history, projects, and contact info.",
+      "confidence": 5
+    },
+    {
+      "link": "https://www.youtube.com/@soren_iverson/videos",
+      "platform": "YouTube",
+      "is_confirmed": true,
+      "add_to_db": true,
+      "search_info": "soren iverson",
+      "agent_notes": "User previously confirmed this is their YouTube channel. Channel handle matches user's name and profile.",
+      "link_summary": "YouTube channel for Soren Iverson, likely containing videos related to his design consultancy and professional work.",
+      "confidence": 5
+    },
+    {
+      "link": "https://www.youtube.com/",
+      "platform": "YouTube",
+      "is_confirmed": true,
+      "add_to_db": false,
+      "search_info": "soren iverson",
+      "agent_notes": "Generic YouTube link; confirm if relevant to Soren Iverson."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=EjEpL6CTwLA",
+      "platform": "YouTube",
+      "search_info": "soren iverson",
+      "is_confirmed": false,
+      "add_to_db": false,
+      "agent_notes": "Confirm if this video is by or about Soren Iverson."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=NBojibnQbPo",
+      "platform": "YouTube",
+      "search_info": "soren iverson",
+      "is_confirmed": false,
+      "add_to_db": false,
+      "agent_notes": "Need to confirm if Soren Iverson is the creator or subject of this video."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=RIOb2oUFZNk",
+      "link_summary": "YouTube podcast episode featuring Soren Iverson discussing his approach to design, building viral products, business ideas, and his experience as a founder and designer. The conversation covers hardware, real estate, and design startup opportunities, with Soren sharing personal insights and professional advice.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, directly matching the user's name, profession, and public persona. The episode centers on his work and ideas."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=WSHGY-TMpW0",
+      "platform": "YouTube",
+      "search_info": "soren iverson",
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "User previously confirmed this video is theirs. Content is about design techniques, directly matching user's professional background.",
+      "link_summary": "YouTube short video demonstrating how to use layered shadows to improve Dribbble design shots, including practical tips and plugin recommendations. Content aligns with design consultancy expertise.",
+      "confidence": 5
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=hquNHMw1ivM",
+      "link_summary": "YouTube interview with Soren Iverson (Dive Club Ep. 29) covering his creative process, satirical design work, collaboration with Duolingo, strategies for consistency, audience building, and product sense. Offers deep insights into his professional journey and design philosophy.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, and the content is entirely about his work and career. Title, transcript, and description all match the user's identity and expertise."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=kUxB19g9Pxw",
+      "platform": "YouTube",
+      "search_info": "soren iverson",
+      "is_confirmed": true,
+      "add_to_db": false,
+      "agent_notes": "Unclear if this video is by or about Soren Iverson; needs user confirmation."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=lGiJ4VmjHv4",
+      "link_summary": "Podcast episode featuring Soren Iverson discussing his design career, satirical app concepts, creative process, fine art background, and strategies for building an audience. Includes insights on UX, virality, and the intersection of comedy and design.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Soren Iverson is the featured guest, and the entire episode centers on his work, career, and design philosophy. Title, transcript, and description all match the user's identity and expertise."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=uqDSqtLgJZg",
+      "link_summary": "YouTube video by Soren Iverson explaining how much product designers get paid, including salary, stock options, RSUs, and bonuses. The video covers compensation factors, negotiation, and resources for designers in tech.",
+      "platform": "YouTube",
+      "confidence": 5,
+      "is_confirmed": true,
+      "add_to_db": true,
+      "agent_notes": "Video is authored and presented by Soren Iverson, directly matching the user's name, voice, and professional expertise. Content aligns with user's background as a design consultant."
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=vc8lzOtcMAA",
+      "platform": "YouTube",
+      "search_info": "soren iverson",
+      "is_confirmed": false,
+      "add_to_db": false,
+      "agent_notes": "Need to confirm if Soren Iverson is the creator or subject of this video."
+    },
+    {
+      "link": "https://www.youtube.com/https://www.youtube.com/watch?v=EjEpL6CTwLA",
+      "platform": "YouTube",
+      "search_info": "soren iverson",
+      "is_confirmed": false,
+      "add_to_db": false,
+      "agent_notes": "Malformed YouTube link; unclear if related to Soren Iverson. Needs user review."
+    }
+  ],
+  "messages": []
+}
