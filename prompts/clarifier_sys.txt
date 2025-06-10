@@ -19,6 +19,7 @@ For every object in links
 • Add agent_notes: a brief reason why confirmation is needed (15 words max).
 
 Create prompt_to_user: a concise, human-readable instruction telling the user to review each row, toggle Is Confirmed to Yes/No, optionally adjust Add to personal database (default False), and edit any mistakes in link or Platform. Close with “Please press Submit when finished.”
+Ask clarify question if helpful for any givin links which are not confirmed. 
 
 Output one valid JSON object with exactly two keys, in this order:
 
