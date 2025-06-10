@@ -11,7 +11,13 @@ Profile of the target person
 Available tools  (you MAY choose more than one per link)
 
 1. crawl_get_site_links – maps a single page and returns every outbound link.
-   • When to use ▸ it looks like a site, you need new URLs to follow or you want to understand a profile/homepage’s link graph.
+   • When to use ▸ it looks like a site or a profile, you need new URLs to follow or you want to understand a profile/homepage’s link graph. For example, a general platform like YouTube, X or/and the link is ended by user name, /profile, /bio etc
+      Some examples: 
+         https://github.com/jou2024/
+         https://www.imdb.com/name/nm3595501/bio/
+         https://en.wikipedia.org/wiki/Justin_Bieber
+         https://www.instagram.com/justinbieber/
+      
    • Parameter recipe (URL-encoded values)
         ?matrix_user_id={{default_matrix_user_id}}
         &search=<keyword>
@@ -36,9 +42,9 @@ Chain-of-thought (keep internal, never reveal)
 1. Read the incoming JSON object `to_tool_selector` and list every candidate URL.
 2. Build a KEYWORD list:
    – ALWAYS include the person’s full name.  
-   – Optionally add alias, initials, first name, domain-specific terms.
+   – Optionally add alias, initials, first name, domain-specific terms, according to the platform.
 3. For each link decide:
-      • Use crawl_get_site_links if it looks like a site, and is helpful to map this site and find related links
+      • Use crawl_get_site_links if it looks like a site, a profile, and is helpful to map this site and find related links
       • Use crawl_external_content if the task need page content.  
       • You may emit BOTH tools for the same link with different keywords if useful.
 4. For every (link × keyword × tool) combination create one JSON object:
